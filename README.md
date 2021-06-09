@@ -1,6 +1,5 @@
 ### Hello 👋
-
-        _                       
+================================================================                  
                 \`*-.                   
                  )  _`-.                
                 .  : `. .               
@@ -15,6 +14,11 @@
                   ; '   : :`-:     _.`* ;
          [bug] .*' /  .*' ; .*`- +'  `*'
                `*-*   `*-*  `*-*'       
+               
+ ================================================================              
+ ### WELCOME
+               
+               
 <!--
 **houssen-kassir/houssen-kassir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
