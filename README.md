@@ -34,3 +34,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=houssen-kassir)](https://github.com/anuraghazra/github-readme-stats)
+
+### Hi there 👋, My name is Houssen Kassir
+#### Welcome to my Github
+![Welcome to my Github](https://github.com/houssen-kassir/houssen-kassir/blob/main/a1_r06_v16_transp_cropped_1024px_f0000.png?raw=true)
+
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on a few small projects 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/houssen-kassir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/houssen-kassir/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/houssen.kassir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/houssen.kassir/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/houssenkassir)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=houssen-kassir)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile views](https://gpvc.arturio.dev/houssen-kassir)  
