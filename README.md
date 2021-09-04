@@ -18,7 +18,7 @@
                
            
                
- <img src="https://www.icegif.com/wp-content/uploads/satisfying-icegif-8.gif" width="256" />              
+             
 <!--
 **houssen-kassir/houssen-kassir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -51,3 +51,6 @@ Skills: REACT / JS / HTML / CSS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=houssen-kassir)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/houssen-kassir)  
+
+
+<img src="https://www.icegif.com/wp-content/uploads/satisfying-icegif-8.gif" width="256" />  
