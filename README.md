@@ -1,4 +1,4 @@
-### Hello 👋
+### Hello 👋 CHECKOUT MY FRONTEND CV in my REPO
 
 
                 \`*-.                   
