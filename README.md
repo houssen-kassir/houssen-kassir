@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 ### Hi there 👋, My name is Houssen Kassir
 #### Welcome to my Github
 ![Welcome to my Github](https://github.com/houssen-kassir/houssen-kassir/blob/main/a1_r06_v16_transp_cropped_1024px_f0000.png?raw=true)
+(https://github.com/houssen-kassir/houssen-kassir/blob/main/recog.jpg?raw=true)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
