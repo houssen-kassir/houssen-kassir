@@ -59,3 +59,8 @@ Skills: REACT / JS / HTML / CSS
 
 
 <img src="https://www.icegif.com/wp-content/uploads/satisfying-icegif-8.gif" width="256" />  
+
+
+<img src="https://www.icegif.com/wp-content/uploads/satisfying-icegif-8.gif" width="VALUE" height="VALUE" alt="ALTERNATIVE_TEXT" />
+// or
+![ALTERNATIVE_TEXT](https://www.icegif.com/wp-content/uploads/satisfying-icegif-8.gif)
